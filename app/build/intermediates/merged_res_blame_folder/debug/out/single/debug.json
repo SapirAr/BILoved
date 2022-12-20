@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_swipe_recycler.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\swipe_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_unmatch1.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\unmatch1.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_picture_cell.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\picture_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_match_cell.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\match_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_no_more_users.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\no_more_users.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_profile.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_matches_list.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\matches_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_img.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_profile_page.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_person_img.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\person_img.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_unmatch.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\unmatch.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_pictures.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\edit_pictures.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_message_cell.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\message_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_upload_pic_fragment.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\upload_pic_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_picture_cell.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\edit_picture_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_no_more_matches.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\no_more_matches.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_reciever_msg.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\reciever_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_swipe_cardview.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\swipe_cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_shape.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_sender_msg.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\sender_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_chat.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_upload_person_img.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\upload_person_img.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_big_picture_frag.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\big_picture_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\layout_second_activity.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\layout\\second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_selector.xml.flat",
+        "source": "C:\\Users\\snapi\\Desktop\\ANDROID_2_PROJECT\\BILoved\\app\\src\\main\\res\\drawable\\shape_selector.xml"
+    }
+]

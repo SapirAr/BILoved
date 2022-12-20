@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">752060547034-5u2885t26ars68blmie2n7heqclllmju.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://datingapp-eef23-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">752060547034</string>
+    <string name="google_api_key" translatable="false">AIzaSyD05SFMAlvH61-JSxKd4p9t_JCNwC4_hCQ</string>
+    <string name="google_app_id" translatable="false">1:752060547034:android:42245cc52c94a998c84ae3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD05SFMAlvH61-JSxKd4p9t_JCNwC4_hCQ</string>
+    <string name="google_storage_bucket" translatable="false">datingapp-eef23.appspot.com</string>
+    <string name="project_id" translatable="false">datingapp-eef23</string>
+</resources>

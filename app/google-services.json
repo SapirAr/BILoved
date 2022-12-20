@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752060547034",
+    "firebase_url": "https://datingapp-eef23-default-rtdb.firebaseio.com",
+    "project_id": "datingapp-eef23",
+    "storage_bucket": "datingapp-eef23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752060547034:android:42245cc52c94a998c84ae3",
+        "android_client_info": {
+          "package_name": "com.example.datingappmine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752060547034-5u2885t26ars68blmie2n7heqclllmju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD05SFMAlvH61-JSxKd4p9t_JCNwC4_hCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752060547034-5u2885t26ars68blmie2n7heqclllmju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/root_container"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@drawable/img"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/swipe_rec"
+        android:orientation="horizontal"
+        >
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/no_more_users"
+        android:visibility="invisible"
+        android:src="@drawable/no_more_matches"
+        android:foregroundGravity="center"
+        />
+</RelativeLayout>
